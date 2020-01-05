@@ -1,0 +1,3 @@
+Among the drug treatment of cancer in Pymaceuticals, Capomulin is the most effective in shrinking the tumor volume, slowing down the metastatic spread and the highest survival rate on the mice on a 45 day period. 
+Ketapril on the other hand has the greatest increase in tumor volume followed by Placebo. Also, Placebo drug has the highest metatastatic spread. 
+Although Capomulin shows the best drug treatment response on the mice, All drug treatments still showed an increase on metastatic spread. Also, all the drug treatments showed a decreasing survival rate as time value gets longer
